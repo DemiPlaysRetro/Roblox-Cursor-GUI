@@ -1,0 +1,1 @@
+So far I've tested cursors up to 128x128 px, feel free to go further yourself but I'm not sure what the cap is, anywho, PNG files ONLY!
